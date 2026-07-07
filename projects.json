@@ -1,5 +1,5 @@
 {
-  "intro": "<b>MTV VMA-winning director (2020) turned protocol engineer.</b> <b>Bitcoin</b>, <b>EVM</b>, and <b>Solana</b> — indexers, wallets, agents. Commissions open.",
+  "intro": "<b>Visual director turned protocol engineer.</b> <b>Bitcoin</b>, <b>EVM</b>, and <b>Solana</b> — indexers, wallets, agents. Commissions open.",
   "clients": [
     { "cat": "music", "name": "KANYE WEST", "role": "Technical Direction (LA)", "year": "2025", "desc": "LED volume management, creative direction, post-production editing, and AI visual pipeline R&D.", "items": ["LED volume production", "Creative direction", "Album editing", "iOS/macOS tooling", "AI imaging & video workflows"] },
     { "cat": "tech", "name": "LIL YACHTY", "role": "CTO / Co-Founder / Lead Developer", "year": "2025", "desc": "Full-service logistics platform with native iOS app and backend infrastructure.", "items": ["Real-time tracking", "Apple Maps integration", "Dispatch system", "Payment processing"] },
@@ -8,14 +8,11 @@
     { "cat": "music", "name": "MYKKI BLANCO", "role": "Director / Camera Op", "year": "2014", "desc": "\"She Gutta\" — official music video." },
     { "cat": "art", "name": "MUSEUM OF ARTS & DESIGN", "role": "Experience Designer", "year": "2014", "desc": "Immersive cinema installation for NYC Makers Biennial.", "items": ["Theater transformation", "Experiential installation"] },
     { "cat": "music", "name": "YUNG LEAN", "role": "Tour Production — Lighting & FX", "year": "2014", "desc": "Unknown Memory tour — production coordination across multiple cities.", "items": ["Stage management", "Lighting and effects"] },
-    { "cat": "music", "name": "KINGDOM", "role": "Director", "year": "2013", "desc": "\"Bank Head\" (feat. Kelela) — official music video." },
     { "cat": "music", "name": "NGUZUNGUZU", "role": "Director", "year": "2013", "desc": "\"Mecha\" — official music video." },
-    { "cat": "music", "name": "PHYSICAL THERAPY", "role": "Director", "year": "2013", "desc": "\"Do It Alone\" — official music video." },
     { "cat": "art", "name": "MOMA PS1", "role": "Installation Artist / Designer", "year": "2013", "desc": "Stage installations for Warm Up and the Future Brown commission.", "items": ["Warm Up 2013", "Future Brown (VW Sunday Sessions)", "DIS Magazine collaboration"] },
     { "cat": "music", "name": "DEVONTÉ HYNES", "role": "VFX Production & Editing", "year": "2012", "desc": "Technical direction and editing for Blood Orange's \"Champagne Coast\".", "items": ["Nuke VFX compositing", "3D collage production", "DP and editing"] },
     { "cat": "music", "name": "BENZEL", "role": "Post Production", "year": "2012", "desc": "\"If You Love Me\" — official music video." },
-    { "cat": "art", "name": "ART BASEL MIAMI", "role": "Stage Designer / Video Producer", "year": "2011", "desc": "Stage design and video production across multiple events, 2011–2013.", "items": ["SALEM at the Delano pool (2011)", "Matthew Stone production (2013)", "Kelela, Zebra Katz, boychild"] },
-    { "cat": "music", "name": "WHITE CAR", "role": "Director", "year": "2010", "desc": "\"The Bridge\" — official music video." }
+    { "cat": "art", "name": "ART BASEL MIAMI", "role": "Stage Designer / Video Producer", "year": "2011", "desc": "Stage design and video production across multiple events, 2011–2013.", "items": ["SALEM at the Delano pool (2011)", "Matthew Stone production (2013)", "Kelela, Zebra Katz, boychild"] }
   ],
   "eras": [
     { "id": "systems", "label": "systems & agents — 2024 → present" },

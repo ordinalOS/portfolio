@@ -57,7 +57,11 @@ const BG_TILES = [
   'media/savage-1.jpg', 'media/nashville-1.jpg', 'media/zatoshi-market.png',
   'media/champagne-coast.jpg', 'media/purple-trade.png', 'media/savage-2.jpg',
   'media/nashville-2.jpg', 'media/rarecube-tv.png', 'media/ordinalos-boot.png',
-  'media/savage-3.jpg', 'media/inscripedia-onchain.png', 'media/nashville-2.jpg',
+  'media/savage-3.jpg', 'media/inscripedia-onchain.png', 'media/shegutta.jpg',
+  'media/savage-4.jpg', 'media/nashville-3.jpg', 'media/bankhead.jpg',
+  'media/savage-5.jpg', 'media/nashville-4.jpg', 'media/mecha.jpg',
+  'media/doitalone.jpg', 'media/foolsgold.png', 'media/gitclaw-repo.png',
+  'media/milhouse-repo.png', 'media/zord-repo.png', 'media/recursive-doom-repo.png',
 ];
 function buildBackground() {
   if (document.getElementById('bg')) return;

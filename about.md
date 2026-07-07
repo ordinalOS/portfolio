@@ -1,6 +1,6 @@
 # about
 
-> ᴏʀᴅɪɴᴀʟ ᴏᴘ_ꜱʏꜱᴛᴇᴍ — MTV VMA-winning director turned protocol engineer. Los Angeles.
+> ᴏʀᴅɪɴᴀʟ ᴏᴘ_ꜱʏꜱᴛᴇᴍ — visual director turned protocol engineer. Los Angeles.
 
 My relationship with computers started with a Blueberry iMac G3 in my room circa '99. The path since: audio engineering; co-founding [Thunder Horse Video](#/thunder-horse) — the NYT-featured "production powerhouse" collective; a decade directing music videos; a **2020 MTV VMA** for an animated music video; full-time engineering from 2021 — and since 2023, protocol-level work across Bitcoin, EVM, and Solana under the ordinalOS flag.
 
